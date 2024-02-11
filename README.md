@@ -8,11 +8,12 @@
 - - -
 ### Programming Language
 - Java
-- Python
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFF"/></a>
+
 
 ### Framework
-- Spring Boot
-- Django
-- React Native
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=FFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=FFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFF"/></a>
 
 - - -
