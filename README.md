@@ -1,12 +1,13 @@
-<h3 align='center'> Who am I  </h3>
-
-<p align='center'>
-<a href="https://www.linkedin.com/in/su-yeon-koo-7222292b4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFF"/></a>
-</p>
-
+<h3>
+  <a href="https://www.linkedin.com/in/su-yeon-koo-7222292b4/" target="_blank" style="text-decoration: none; color: inherit;">
+    Hi 🖐️ I'm Suyeon Koo
+  </a>
+</h3>
 
 - - -
-<h3 align='center'>Programming Language</h3>
+<h3> Stacks </h3>
+
+<h3 align='center'></h3>
 <p align='center'>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFF"/></a>
